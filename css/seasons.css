@@ -41,8 +41,8 @@ section { margin-top: 15px; background-color: #FFF; }
 	text-align: left;
 	padding-left: 20px;
 	padding-top: 20px;
-	margin: 0; b
-	order:0px;
+	margin: 0px;
+	order: 0;
 }
 
 .main-copy p {
