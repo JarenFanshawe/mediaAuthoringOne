@@ -7,6 +7,11 @@ var dynamicContent = {
 			images : [
 				"spring_1.jpg",
 				"spring_2.jpg"
+			],
+
+			imageDescription : [
+				"This is a butterfly",
+				"This is a duck."
 			]
 		},
 
@@ -18,6 +23,11 @@ var dynamicContent = {
 			images : [
 				"summer_1.jpg",
 				"summer_2.jpg"
+			],
+
+			imageDescription : [
+				"Summer 1 or some crap",
+				"Summer 2 junk."
 			]
 		},
 
@@ -29,6 +39,11 @@ var dynamicContent = {
 			images : [
 				"autumn_1.jpg",
 				"autumn_2.jpg"
+			],
+
+			imageDescription : [
+				"Autumn picture I think",
+				"Fall photo I think."
 			]
 		},
 
@@ -40,6 +55,11 @@ var dynamicContent = {
 			images : [
 				"winter_1.jpg",
 				"winter_2.jpg"
+			],
+
+			imageDescription : [
+				"Winter 1 or whatever",
+				"Winter 2 or something."
 			]
 		}
 	};
