@@ -21,6 +21,8 @@
 
 			//create an image element
 			let newSubImg = document.createElement('img');
+			let newSubImg = document.createElement('img');
+
 			// add a css class to it
 			newSubImg.classList.add('thumb');
 			// set the src
@@ -86,7 +88,6 @@
 		lightboxDesc.innerHTML = "";
 		lightboxImg.src = "";
 	}
-
 	//document.querySelector('#spring').click();
 	changeElements.call(document.querySelector('#spring'));
 
