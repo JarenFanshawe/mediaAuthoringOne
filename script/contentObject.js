@@ -6,6 +6,21 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
+
+				"spring_2.jpg",
+				"spring_3.jpeg",
+				"spring_4.jpeg",
+				"spring_5.jpeg",
+				"spring_6.jpeg"
+			],
+
+			imageDescription : [
+				"This is a butterfly",
+				"This is a duck.",
+				"this is spring",
+				"This is good weather",
+				"Wish I was here",
+				"Looks pretty",
 				"spring_2.jpg"
 			]
 		},
@@ -17,6 +32,20 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
+				"summer_2.jpg",
+				"summer_3.jpeg",
+				"summer_4.jpeg",
+				"summer_5.jpeg",
+				"summer_6.png"
+			],
+
+			imageDescription : [
+				"Summer 1 or some crap",
+				"Summer 2 junk.",
+				"Looks hot out",
+				"Wouldn't mind visiting this place",
+				"I swear I've seen this pic before",
+				"Summer pic number 6!",
 				"summer_2.jpg"
 			]
 		},
@@ -28,6 +57,20 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
+				"autumn_2.jpg",
+				"fall_3.jpeg",
+				"fall_4.jpg",
+				"fall_5.jpeg",
+				"fall_6.jpeg"
+			],
+
+			imageDescription : [
+				"Autumn picture I think",
+				"Fall photo I think.",
+				"fall roads",
+				"I think this is the new MacOS background",
+				"I want to live next to water at some point",
+				"Leaves are different colour because of the way they are! Its pretty neat!",
 				"autumn_2.jpg"
 			]
 		},
@@ -39,6 +82,21 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
+				"winter_2.jpg",
+				"winter_3.jpeg",
+				"winter_4.jpeg",
+				"winter_5.jpeg",
+				"winter_6.jpeg"
+
+			],
+
+			imageDescription : [
+				"Winter 1 or whatever",
+				"Winter 2 or something.",
+				"Looks peaceful",
+				"Wonder if this is Whister. I've never been.",
+				"Wooooooww",
+				"Neato"
 				"winter_2.jpg"
 			]
 		}
