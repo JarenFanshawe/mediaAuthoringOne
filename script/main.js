@@ -78,8 +78,13 @@
 	function closeLightbox() {
 		//debugger;
 		let lightbox  = document.querySelector('.lightbox');
+		let lightboxImg  = lightbox.querySelector('img');
+		let lightboxDesc  = lightbox.querySelector('p');
+
 		lightbox.style.display = "none";
 		document.body.style.overflow = "scroll";
+		lightboxDesc.innerHTML = "";
+		lightboxImg.src = "";
 	}
 
 	//document.querySelector('#spring').click();
