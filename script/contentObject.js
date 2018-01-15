@@ -6,7 +6,6 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-
 				"spring_2.jpg",
 				"spring_3.jpeg",
 				"spring_4.jpeg",
@@ -20,8 +19,7 @@ var dynamicContent = {
 				"this is spring",
 				"This is good weather",
 				"Wish I was here",
-				"Looks pretty",
-				"spring_2.jpg"
+				"Looks pretty"
 			]
 		},
 
@@ -45,8 +43,7 @@ var dynamicContent = {
 				"Looks hot out",
 				"Wouldn't mind visiting this place",
 				"I swear I've seen this pic before",
-				"Summer pic number 6!",
-				"summer_2.jpg"
+				"Summer pic number 6!"
 			]
 		},
 
@@ -70,8 +67,7 @@ var dynamicContent = {
 				"fall roads",
 				"I think this is the new MacOS background",
 				"I want to live next to water at some point",
-				"Leaves are different colour because of the way they are! Its pretty neat!",
-				"autumn_2.jpg"
+				"Leaves are different colour because of the way they are! Its pretty neat!"
 			]
 		},
 
@@ -97,7 +93,6 @@ var dynamicContent = {
 				"Wonder if this is Whister. I've never been.",
 				"Wooooooww",
 				"Neato"
-				"winter_2.jpg"
 			]
 		}
 	};
